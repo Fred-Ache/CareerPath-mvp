@@ -4,12 +4,8 @@ Career-discovery MVP for young people in Ghana and Nigeria. Students complete an
 
 This repository currently contains **Stage 1–2**: Next.js + Tailwind UI shell, landing page, Ghana/Nigeria country selection, and placeholder routes. Database, auth, scoring, and verified career data are not connected yet.
 
-## Requirements
 
-- Node.js current LTS
-- npm (bundled with Node.js)
 
-If `node -v` fails in a terminal, install Node from [https://nodejs.org](https://nodejs.org) and reopen the terminal.
 
 ## Run locally
 
@@ -18,7 +14,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+
 
 Other scripts:
 
